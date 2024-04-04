@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: sirijangam/sirirepo:latest
+        image: venkatahyndavi/backend-app:latest
         ports:
         - containerPort: 8080
         env:
